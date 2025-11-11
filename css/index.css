@@ -1,0 +1,290 @@
+.section1 { /*секция 1*/
+    width: 1440px; /*ширина*/
+    height: 355px; /*высота*/
+}
+.section1_oglav { /*главный текст*/
+    width: 366px; /*ширина*/
+    height: 34px; /*высота*/
+    top: 60px; /*отступ сверху*/
+    margin: 0 auto; /*горизонтально центрирует блочный элемент*/
+    position: absolute; /*выравнивается все по top и left*/
+    color: #2a254b; /*изменение цвета текста*/
+    font-family: 'Spinnaker'; /*изменение шрифта*/
+    font-size: 22px; /*размер шрифта текста*/
+    text-align: center; /*централизация блока*/
+    left: 559px; /*отступ слева*/
+}
+.section1_logo1 { /*блок 1*/ 
+    width: 270px; /*ширина*/
+    height: 124px; /*высота*/
+    position: absolute; /*выравнивается все по top и left*/
+    left: 30px; /*отступ слева*/
+    text-align: center; /*централизация блока*/
+}
+.section1_logoimg1 { /*картинка блока 1*/
+    position: absolute; /*выравнивается все по top и left*/
+    margin: 0 auto; /*горизонтально центрирует блочный элемент*/
+    top: 145px; /*отступ сверху*/
+    width: 24px; /*ширина*/
+    height: 24px; /*высота*/
+    left: 86px; /*отступ слева*/
+}
+.section1_infgl1 { /*главный текст блока 1*/
+    position: absolute; /*выравнивается все по top и left*/
+    font-size: 15px; /*размер шрифта текста*/
+    top: 180px; /*отступ сверху*/
+    font-family: "Outfit"; /*изменение шрифта*/
+    color: #2a254b; /*изменение цвета текста*/
+    left: 70px; /*отступ слева*/
+    width: 170px; /*ширина*/
+    height: 15px; /*высота*/
+}
+.section1_infdop1 { /*дополнительный текст блока 1*/
+    position: absolute; /*выравнивается все по top и left*/
+    font-size: 12px; /*размер шрифта текста*/
+    top: 200px; /*отступ сверху*/
+    color: #2a254b; /*изменение цвета текста*/
+    left: 83px; /*отступ слева*/
+    width: 210px; /*ширина*/
+    height: 48px; /*высота*/
+    font-family: 'Outfit'; /*изменение шрифта*/
+}
+.section1_logo2 { /*блок 2*/
+    width: 270px; /*ширина*/
+    height: 124px; /*высота*/
+    position: absolute; /*выравнивается все по top и left*/
+    left: 30px; /*отступ слева*/
+    text-align: center; /*централизация блока*/
+}
+.section1_logoimg2 { /*картинка блока 2*/
+    position: absolute; /*выравнивается все по top и left*/
+    margin: 0 auto; /*горизонтально центрирует блочный элемент*/
+    top: 145px; /*отступ сверху*/
+    width: 24px; /*ширина*/
+    height: 24px; /*высота*/
+    left: 415px; /*отступ слева*/
+}
+.section1_infgl2 { /*главный текст блока 2*/
+    position: absolute; /*выравнивается все по top и left*/
+    font-size: 15px; /*размер шрифта текста*/
+    top: 180px; /*отступ сверху*/
+    color: #2a254b; /*изменение цвета текста*/
+    left: 405px; /*отступ слева*/
+    width: 170px; /*ширина*/
+    height: 15px; /*высота*/
+    font-family: "Outfit"; /*изменение шрифта*/
+}
+.section1_infdop2 { /*дополнительный текст блока 2*/
+    position: absolute; /*выравнивается все по top и left*/
+    font-size: 12px; /*размер шрифта текста*/
+    top: 210px; /*отступ сверху*/
+    color: #2a254b; /*изменение цвета текста*/
+    left: 418px; /*отступ слева*/
+    width: 220px; /*ширина*/
+    height: 48px; /*высота*/
+    font-family: 'Outfit'; /*изменение шрифта*/
+}
+.section1_logo3 { /*блок 3*/
+    width: 270px; /*ширина*/
+    height: 124px; /*высота*/
+    position: absolute; /*выравнивается все по top и left*/
+    left: 30px; /*отступ слева*/
+    text-align: center; /*централизация блока*/
+}
+.section1_logoimg3 { /*картинка блока 3*/
+    position: absolute; /*выравнивается все по top и left*/
+    margin: 0 auto; /*горизонтально центрирует блочный элемент*/
+    top: 145px; /*отступ сверху*/
+    width: 24px; /*ширина*/
+    height: 24px; /*высота*/
+    left: 739px; /*отступ слева*/
+}
+.section1_infgl3 { /*главный текст блока 3*/
+    position: absolute; /*выравнивается все по top и left*/
+    font-size: 15px; /*размер шрифта текста*/
+    top: 180px; /*отступ сверху*/
+    color: #2a254b; /*изменение цвета текста*/
+    left: 712px; /*отступ слева*/
+    width: 170px; /*ширина*/
+    height: 15px; /*высота*/
+    font-family: "Outfit"; /*изменение шрифта*/
+}
+.section1_infdop3 { /*дополнительный текст блока 3*/
+    position: absolute; /*выравнивается все по top и left*/
+    font-size: 12px; /*размер шрифта текста*/
+    top: 210px; /*отступ сверху*/
+    color: #2a254b; /*изменение цвета текста*/
+    left: 740px; /*отступ слева*/
+    width: 220px; /*ширина*/
+    height: 48px; /*высота*/
+    font-family: 'Outfit'; /*изменение шрифта*/
+}
+.section1_logo4 { /*блок 4*/
+    width: 270px; /*ширина*/
+    height: 124px; /*высота*/
+    position: absolute; /*выравнивается все по top и left*/
+    left: 30px; /*отступ слева*/
+    text-align: center; /*централизация блока*/
+}
+.section1_logoimg4 { /*картинка блока 4*/
+    position: absolute; /*выравнивается все по top и left*/
+    margin: 0 auto; /*горизонтально центрирует блочный элемент*/
+    top: 145px; /*отступ сверху*/
+    width: 24px; /*ширина*/
+    height: 24px; /*высота*/
+    left: 1065px; /*отступ слева*/
+}
+.section1_infgl4 { /*главный текст блока 4*/
+    position: absolute; /*выравнивается все по top и left*/
+    font-size: 15px; /*размер шрифта текста*/
+    top: 180px; /*отступ сверху*/
+    color: #2a254b; /*изменение цвета текста*/
+    left: 1053px; /*отступ слева*/
+    width: 170px; /*ширина*/
+    height: 15px; /*высота*/
+    font-family: "Outfit"; /*изменение шрифта*/
+}
+.section1_infdop4 { /*дополнительный текст блока 4*/
+    position: absolute; /*выравнивается все по top и left*/
+    font-size: 12px; /*размер шрифта текста*/
+    top: 210px; /*отступ сверху*/
+    color: #2a254b; /*изменение цвета текста*/
+    left: 1055px; /*отступ слева*/ 
+    width: 220px; /*ширина*/
+    height: 48px; /*высота*/
+    font-family: 'Outfit'; /*изменение шрифта*/
+}
+.section2 { /*секция 2*/
+    width: 1440px; /*ширина*/
+    height: 761px; /*высота*/
+}
+.section2_glav { /*главный текст секции 2*/
+    position: absolute; /*выравнивается все по top и left*/
+    width: 215px; /*ширина*/
+    height: 40px; /*высота*/
+    top: 401px; /*отступ сверху*/
+    left: 100px; /*отступ слева*/
+    font-size: 32px; /*размер шрифта текста*/
+    font-family: 'Spinnaker'; /*изменение шрифта*/
+}
+.section2_logoimg1 { /*картинка 1 секции 2*/
+    position: absolute; /*выравнивается все по top и left*/
+    width: 305px; /*ширина*/
+    height: 375px; /*высота*/
+    top: 490px; /*отступ сверху*/
+    left: 100px; /*отступ слева*/
+}
+.section2_inf1 { /*главная инфа 1 секции 2*/
+    position: absolute; /*выравнивается все по top и left*/
+    font-size: 20px; /*размер шрифта текста*/
+    width: 154px; /*ширина*/
+    left: 100px; /*отступ слева*/
+    top: 885px; /*отступ сверху*/
+    height: 28px; /*высота*/
+    font-family: 'Cormorant Garamond'; /*изменение шрифта*/
+}
+.section2_price1 { /*ценник 1 секции 2*/
+    position: absolute; /*выравнивается все по top и left*/
+    width: 44px; /*ширина*/
+    height: 27px; /*высота*/
+    top: 915px; /*отступ сверху*/
+    left: 102px; /*отступ слева*/
+    font-family: 'Cormorant Garamond'; /*изменение шрифта*/
+    font-size: 22px; /*размер шрифта текста*/
+}
+.section2_logoimg2 { /*картинка 2 секции 2*/
+    position: absolute; /*выравнивается все по top и left*/
+    width: 305px; /*ширина*/
+    height: 375px; /*высота*/
+    top: 490px; /*отступ сверху*/
+    left: 425px; /*отступ слева*/
+}
+.section2_inf2 { /*главная инфа 2 секции 2*/
+    position: absolute; /*выравнивается все по top и left*/
+    font-size: 20px; /*размер шрифта текста*/
+    width: 154px; /*ширина*/
+    left: 425px; /*отступ слева*/
+    top: 885px; /*отступ сверху*/
+    height: 28px; /*высота*/
+    font-family: 'Cormorant Garamond'; /*изменение шрифта*/
+}
+.section2_price2 { /*ценник 2 секции 2*/
+    position: absolute; /*выравнивается все по top и left*/
+    width: 44px; /*ширина*/
+    height: 27px; /*высота*/
+    top: 915px; /*отступ сверху*/
+    left: 427px; /*отступ слева*/
+    font-family: 'Cormorant Garamond'; /*изменение шрифта*/
+    font-size: 22px; /*размер шрифта текста*/
+}
+.section2_logoimg3 { /*картинка 3 секции 2*/
+    position: absolute; /*выравнивается все по top и left*/
+    width: 305px; /*ширина*/
+    height: 375px; /*высота*/
+    top: 490px; /*отступ сверху*/
+    left: 750px; /*отступ слева*/
+}
+.section2_inf3 { /*главная инфа 3 секции 2*/
+    position: absolute; /*выравнивается все по top и left*/
+    font-size: 20px; /*размер шрифта текста*/
+    width: 154px; /*ширина*/
+    left: 750px; /*отступ слева*/
+    top: 885px; /*отступ сверху*/
+    height: 28px; /*высота*/
+    font-family: 'Cormorant Garamond'; /*изменение шрифта*/
+}
+.section2_price3 { /*ценник 3 секции 2*/
+    position: absolute; /*выравнивается все по top и left*/
+    width: 44px; /*ширина*/
+    height: 27px; /*высота*/
+    top: 915px; /*отступ сверху*/
+    left: 752px; /*отступ слева*/
+    font-family: 'Cormorant Garamond'; /*изменение шрифта*/
+    font-size: 22px; /*размер шрифта текста*/
+}
+.section2_logoimg4 { /*картинка 4 секции 2*/
+    position: absolute; /*выравнивается все по top и left*/
+    width: 305px; /*ширина*/
+    height: 375px; /*высота*/
+    top: 490px; /*отступ сверху*/
+    left: 1075px; /*отступ слева*/
+}
+.section2_inf4 { /*главная инфа 4 секции 2*/
+    position: absolute; /*выравнивается все по top и left*/
+    font-size: 20px; /*размер шрифта текста*/
+    width: 154px; /*ширина*/
+    left: 1075px; /*отступ слева*/
+    top: 885px; /*отступ сверху*/
+    height: 28px; /*высота*/
+    font-family: 'Cormorant Garamond'; /*изменение шрифта*/
+}
+.section2_price4 { /*ценник 4 секции 2*/
+    position: absolute; /*выравнивается все по top и left*/
+    width: 44px; /*ширина*/
+    height: 27px; /*высота*/
+    top: 915px; /*отступ сверху*/
+    left: 1077px; /*отступ слева*/
+    font-family: 'Cormorant Garamond'; /*изменение шрифта*/
+    font-size: 22px; /*размер шрифта текста*/
+}
+.bat_main { /*кнопка*/
+    position: absolute; /*выравнивается все по top и left*/
+    width: 170px; /*ширина*/
+    height: 56px; /*высота*/
+    background-color: #f9f9f9; /*изменение цвета фона*/
+    top: 1000px; /*отступ сверху*/
+    left: 650px; /*отступ слева*/
+    outline: none; /*убирает линию вокруг элемента*/
+    border: none; /*удаляет рамку элемента html*/
+}
+.bat_text { /*текст к кнопке*/
+    position: relative; /*выравнивается все по top и left*/
+    text-decoration: none; /*убирает декоративные линии*/
+    color: black; /*изменение цвета текста*/
+    width: 106px; /*ширина*/
+    height: 24px; /*высота*/
+    font-size: 13px; /*размер шрифта текста*/
+    top: 2px; /*отступ сверху*/
+    margin: 0 auto; /*горизонтально центрирует блочный элемент*/
+    font-family: 'Open Sans'; /*изменение шрифта*/
+}
